@@ -9,7 +9,7 @@ Goal:
 <br> 
 - Build strong programming fundamentals
 <br>
-- Solve 200+ Problems
+- Solve MORE Problems
 <br>
 - Become better at problem solving
 <br>

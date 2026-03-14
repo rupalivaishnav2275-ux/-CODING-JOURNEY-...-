@@ -5,10 +5,8 @@ I begin to learn C/C++ And Data Structures & Algorithms.
 <br>
 As I learn new concepts and solve problems , I will upload my practice.
 <br>
-Goal:
-<br> 
+Goal: 
 - Build strong programming fundamentals
-<br>
 - Solve MORE Problems
 <br>
 - Become better at problem solving

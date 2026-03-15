@@ -16,7 +16,7 @@ Goal:
 <br>
 - [x] Installed VS Code
 <br>
-- [ ] Start learning C language 
+- [x] Start learning C language 
 <br>
 -- [ ] Variables 
 <br>

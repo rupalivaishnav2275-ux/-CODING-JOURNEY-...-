@@ -1,4 +1,4 @@
-# CODING JOURNEY 🚀🚀
+# coding-journey 🚀🚀
 This repository marks the beginning of my programming journey.
 <br> 
 I am starting my journey to learn "C/C++ And Data Structures & Algorithms."

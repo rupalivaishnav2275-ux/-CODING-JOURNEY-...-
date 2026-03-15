@@ -1,7 +1,7 @@
 # CODING JOURNEY 🚀🚀
 This repository marks the beginning of my programming journey.
 <br> 
-I am starting to learn "C/C++ And Data Structures & Algorithms."
+I am starting my journey to learn "C/C++ And Data Structures & Algorithms."
 <br>
 As I learn new concepts and solve problems , I will upload my practice programs here.
 <br>
@@ -12,38 +12,49 @@ Goal:
 
 ## Learning Progress
 <br>
--[x] Github Setup
+- [x] Github Setup
 <br>
--[x] Installed VS Code
+- [x] Installed VS Code
 <br>
--[ ] Start learning C language 
+- [ ] Start learning C language 
 <br>
---[ ] Variables 
+-- [ ] Variables 
 <br>
---[ ] Data Types + Input/Output
+-- [ ] Data Types + Input/Output
 <br>
---[ ] Instructions & Operators
+-- [ ] Instructions & Operators
 <br>
---[ ] Conditional Statements 
+-- [ ] Conditional Statements 
 <br>
---[ ] Loop Control Statements
+-- [ ] Loop Control Statements
 <br>
---[ ] Functions & Recursion 
+-- [ ] Functions & Recursion 
 <br>
---[ ] Pointers
+-- [ ] Pointers
 <br>
---[ ] Arrays 
+-- [ ] Arrays 
 <br>
---[ ] Strings
+-- [ ] Strings
 <br>
---[ ] Structures
+-- [ ] Structures
 <br>
---[ ] File l/O
+-- [ ] File l/O
 <br>
---[ ]Dynamic Memory Allocation 
+-- [ ]Dynamic Memory Allocation 
 
 ## Problem Solving Progress
 Problem Solved: 0 / 200
+Progress
 
+░░░░░░░░░░░░░░░░░░░░ 0 %
+![Progress](https://img.shields.io/badge/Problems%20Solved-0%2F200-red)
+
+## Respository Structure
+
+CODING-JOURNEY
+|
+|- C PRACTICE INITIATE 
+|
+|- README.md
 
 "This repository will grow as my skills grow."

@@ -49,17 +49,14 @@ Problem Solved: 0 / 200
 
 ## Respository Structure 💻
 
-CODING-JOURNEY
-<br>
-|
-<br>
-|- leetcode-problems
-<br>
-    |-- add_two_numbers.cpp
-    <br>
-     |-- two_sum.cpp
-<br>
-|- README.md
 
-<br>
+CODING-JOURNEY
+│
+├─ leetcode-problems
+│  ├─ add_two_numbers.cpp
+│  ├─ two_sum.cpp
+│
+└─ README.md
+
+
 "This repository will grow as my skills grow.."

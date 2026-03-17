@@ -108,14 +108,14 @@ Here, I upload problem solutions, and track my learning progress.
 
 ```text
 CODING-JOURNEY
+|── leetcode-problems/
+|   ├── easy/
+│       └── two-sum.cpp
 │
-├─ leetcode-problems
-│   ├─ __readme.md
-│   ├─ add_two_numbers.cpp
-│   ├─ two_sum.cpp
+|   ├── medium/
+│       └── add-two-numbers.cpp
 │
-└─ README.md
-
+└── README.md
 ```
 
 ---

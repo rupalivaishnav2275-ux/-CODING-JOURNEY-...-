@@ -1,6 +1,8 @@
-# **coding-journey 🚀🚀**
 # 👋 Hi, I’m Rupali Vaishnav  
 ## <a href="https://github.com/rupalivaishnav2275-ux" target="_blank">My Coding Journey 🚀</a>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ### 🖋️ About Me
 <p align="left">
